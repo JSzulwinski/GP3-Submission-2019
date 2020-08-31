@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Silnik OpenGL Framework C++ (Kuba Szulwiński)\EngineOpenGL\Debug\EngineOpenGL.exe
+C:\Users\User\Desktop\Silnik OpenGL Framework C++ (Kuba Szulwiński)\EngineOpenGL\Debug\EngineOpenGL.pdb
